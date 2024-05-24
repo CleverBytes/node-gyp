@@ -45,3 +45,4 @@ npm prefix -g | % {npm config set node_gyp "$_\node_modules\node-gyp\bin\node-gy
 npm config delete node_gyp
 npm uninstall --global node-gyp
 ```
+## prescribe adjust // [html] (css) - tyh
